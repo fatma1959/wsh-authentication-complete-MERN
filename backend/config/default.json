@@ -1,0 +1,4 @@
+{
+    "db":"mongodb+srv://fatma:hamdi50080206@cluster0.necdf.mongodb.net/auth-f2?retryWrites=true&w=majority",
+    "secret":"fullstack-f2"
+}
